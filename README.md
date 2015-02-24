@@ -1,2 +1,0 @@
-# ProjectofGraduation
-Bitirme Projesi
